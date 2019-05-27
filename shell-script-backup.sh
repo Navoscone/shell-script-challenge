@@ -12,6 +12,7 @@ www_files=/var/www/
 #
 #Criando diretório dos arquivos de backup
 mkdir $diretorio_de_backup
+#
 #Criando backup de acordo com a distro
 if [ "$distro" = Ubuntu ]; then
   tar -zcf backup-apache2-${data}.tar.gz $apache2_files && mv backup-apache2-${data}.tar.gz $diretorio_de_backup
