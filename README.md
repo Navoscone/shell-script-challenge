@@ -20,7 +20,9 @@ Caso queira adicionar o script no crontab, para que ele seja executadas de forma
 http://www.vitorbritto.com.br/blog/agendando-tarefas-com-crontab/
 </pre>
 
-## Running Playbook!
+## Executando o Script
 <pre>
-ansible-playbook play-docker-swarm.yml -i hosts --extra-vars "user=USER DOCKER HUB password=SENHA DOCKER HUB"
+./shell-script-backup
+
+OBS: É necessário que o script tenha permissão de execução!
 </pre>
