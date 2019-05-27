@@ -1,4 +1,4 @@
-# Docker CE Swarm 18.09
+# Shell Script Backup
 
 ## Clone do Projeto
 
@@ -15,7 +15,7 @@ O Script também trabalha com diversas variáveis de ambiente, sendo possível a
 
 ## Agendando Execução do Script
 <pre>
-Caso queira adicionar o script no crontab, para que ele seja executadas de forma automática e de acordo com a sua necessidade, basta seguir o tutorial abaixo:
+Caso queira adicionar o script no crontab, para que ele seja executado de forma automática e de acordo com a sua necessidade, basta seguir o tutorial abaixo:
 
 http://www.vitorbritto.com.br/blog/agendando-tarefas-com-crontab/
 </pre>
