@@ -14,10 +14,11 @@ O Script também trabalha com diversas variáveis de ambiente, sendo possível a
 </pre>
 
 ## Agendando Execução do Script
-
+<pre>
 Caso queira adicionar o script no crontab, para que ele seja executadas de forma automática e de acordo com a sua necessidade, basta seguir o tutorial abaixo:
 
 http://www.vitorbritto.com.br/blog/agendando-tarefas-com-crontab/
+</pre>
 
 ## Running Playbook!
 <pre>
